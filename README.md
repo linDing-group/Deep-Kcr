@@ -10,4 +10,6 @@ And input ‘python featureForCKSAAP_PWAA_AAindex_CTD_EBGW.py’ in cmd box.
 2. ‘word2vec.ipynb’ is used to extract embedding kmer features.
 3. ‘CNN_model.ipynb’ is used to train the convolutional neural network-based model.
 4. ‘load_model.ipynb’ is used to get testing result on independent dataset.
+
+
 Due to file size limitation of Github, all temp files can be downloaded from http://lin-group.cn/server/Deep-Kcr/download.html.
